@@ -1,0 +1,24 @@
+{
+  "name": "NEXYRO",
+  "symbol": "NEXY",
+  "description": "NEXYRO (NEXY) is an experimental Solana Devnet SPL token created to research possible future AgentGrid AI-service credits. It has no monetary value and no active payment, redemption, or production credit utility. No token sale, investment return, or future utility is offered or promised.",
+  "image": "https://jpedgetrol-png.github.io/nexyro-public/nexyro-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Project",
+      "value": "AgentGrid"
+    },
+    {
+      "trait_type": "Use case",
+      "value": "Experimental research into possible AI-service credits"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Test-only; no monetary or production utility"
+    }
+  ]
+}
